@@ -1,0 +1,192 @@
+{
+  "data": {
+
+    "icons": [
+      {
+        "id": 0,
+        "url": "https://img.icons8.com/color/48/000000/google-plus.png",
+        "alt": "google"
+      },
+      {
+        "id": 1,
+        "url": "https://img.icons8.com/color/48/000000/facebook.png",
+        "alt": "facebook"
+      }
+    ],
+    "banks": [
+      {
+        "id": 1,
+        "name": "Seb",
+        "imageSource": "static/seb.png"
+      },
+      {
+        "id": 2,
+        "name": "Swedbank",
+        "imageSource": "static/swedbank.png"
+      },
+      {
+        "id": 3,
+        "name": "LHV",
+        "imageSource": "static/lhv.png"
+      }
+    ],
+    "userData": {
+      "name": "Cynthia",
+      "surname": "Brown",
+      "image": "static/user_icon.png",
+      "email": "cynthia.brown@hotmail.com",
+      "phone": "(886) 798-1674",
+      "address": "3637 Streich Union",
+      "detailedAddress": "Port Braxtonchester, South Carolina, 00769-4709",
+      "creditCard": "3456 9403 4950 2094"
+    },
+    "products": [
+      {
+        "id": 0,
+        "imageSource": "static/products/kohuke.jpg",
+        "itemName": "Kohuke",
+        "price": "5",
+        "description": "Curd snack, is a type of sweet snack made from curd cheese (quark). The main part of a curd snack is made from milled and pressed curd, and ingredients such as sugar, sweetener or other products.They can also have a filling such as raisins, jam or other filling. They also sometimes have no filling and are glazed with chocolate or cream with berry or fruit flavours.",
+        "feedbacks": [
+          {
+            "id": 0,
+            "text": "Very delicious!"
+          },
+          {
+            "id": 1,
+            "text": "Highly recommend!"
+          },
+          {
+            "id": 2,
+            "text": "Very cool!"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "imageSource": "static/products/eesti_sport.jpg",
+        "itemName": "Jope",
+        "price": "50",
+        "description": "A jacket is a mid-stomach–length garment for the upper body.[1] A jacket typically has sleeves, and fastens in the front or slightly on the side. A jacket is generally lighter, tighter-fitting, and less insulating than a coat,which is outerwear. Some jackets are fashionable, while others serve as protective clothing. Jackets without sleeves are vests.",
+        "feedbacks": [
+          {
+            "id": 0,
+            "text": "Very stylish item!"
+          },
+          {
+            "id": 1,
+            "text": "Best design and quality in Europe!"
+          }
+        ]
+      }
+    ],
+    "productsFood": [
+      {
+        "id": 0,
+        "imageSource": "static/products/kohuke.jpg",
+        "itemName": "Kohuke",
+        "price": "5",
+        "description": "Curd snack, is a type of sweet snack made from curd cheese (quark). The main part of a curd snack is made from milled and pressed curd, and ingredients such as sugar, sweetener or other products. They can also have a filling such as raisins, jam or other filling. They also sometimes have no filling and are glazed with chocolate or cream with berry or fruit flavours.",
+        "feedbacks": [
+          {
+            "id": 0,
+            "text": "Very delicious!"
+          },
+          {
+            "id": 1,
+            "text": "Highly recommend!"
+          },
+          {
+            "id": 2,
+            "text": "Very cool!"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "imageSource": "static/products/verivorst.jpg",
+        "itemName": "Verivorst",
+        "price": "10",
+        "description": "Blood sausages, often called blood pudding in the United Kingdom (and sometimes black pudding, though this normally includes oats or barley) are sausages filled with blood that are cooked or dried and mixed with a filler until they are thick enough to solidify when cooled. Variants are found worldwide. Pig, cow, sheep, duck, and goat blood can be used, varying by country.",
+        "feedbacks": [
+          {
+            "id": 0,
+            "text": "Very delicious!"
+          },
+          {
+            "id": 1,
+            "text": "Did no like it at all!"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "imageSource": "static/products/kama.jpg",
+        "itemName": "Kama",
+        "price": "15",
+        "description": "Kama (in Estonian) or talkkuna (in Finnish) or tolokno (in Russia) is a traditional Estonian and Finnish and Russian finely milled flour mixture. The kama or talkkuna powder is a mixture of roasted barley, rye, oat and pea flour. The oat flour may be completely replaced by wheat flour, or kibbled black beans may be added to the mixture.",
+        "feedbacks": [
+          {
+            "id": 0,
+            "text": "Very delicious!"
+          },
+          {
+            "id": 1,
+            "text": "Did no like it at all!"
+          }
+        ]
+      }
+    ],
+    "productsClothes": [
+      {
+        "id": 0,
+        "imageSource": "static/products/eesti_sokid.jpg",
+        "itemName": "Sokid",
+        "price": "15",
+        "description": "A sock is an item of clothing worn on the feet and often covering the ankle or some part of the calf. Some type of shoe or boot is typically worn over socks. In ancient times, socks were made from leather or matted animal hair. In the late 16th century, machine-knit socks were first produced. Until 1800 both hand knitting and machine knitting were used to produce socks, but after 1800, machine knitting became the predominant method.",
+        "feedbacks": [
+          {
+            "id": 0,
+            "text": "Very stylish item!"
+          },
+          {
+            "id": 1,
+            "text": "Best design and quality in Europe!"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "imageSource": "static/products/eesti_sport.jpg",
+        "itemName": "Jope",
+        "price": "50",
+        "description": "A jacket is a mid-stomach–length garment for the upper body.[1] A jacket typically has sleeves, and fastens in the front or slightly on the side. A jacket is generally lighter, tighter-fitting, and less insulating than a coat which is outerwear. Some jackets are fashionable, while others serve as protective clothing. Jackets without sleeves are vests.",
+        "feedbacks": [
+          {
+            "id": 0,
+            "text": "Very stylish item!"
+          },
+          {
+            "id": 1,
+            "text": "Best design and quality in Europe!"
+          }
+        ]
+      }
+    ],
+    "productsSouvenirs": [
+      {
+        "id": 0,
+        "imageSource": "static/products/eesti_magnet.jpg",
+        "itemName": "Magnet",
+        "price": "5",
+        "description": "A magnet is a material or object that produces a magnetic field. This magnetic field is invisible but is responsible for the most notable property of a magnet: a force that pulls on other ferromagnetic materials, such as iron, and attracts or repels other magnets.",
+        "feedbacks": [
+          {
+            "id": 0,
+            "text": "Memorable swag!"
+          }
+        ]
+      }
+    ]
+  }
+}

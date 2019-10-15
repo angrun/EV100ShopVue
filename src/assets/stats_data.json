@@ -1,0 +1,133 @@
+{
+  "products": {
+    "productsInQuantityBought": [
+      {
+        "product": "Kohuke",
+        "quantity": 10
+      },
+      {
+        "product": "Sokid",
+        "quantity": 7
+      },
+      {
+        "product": "Jope",
+        "quantity": 5
+      },
+      {
+        "product": "Kama",
+        "quantity": 2
+      }
+    ],
+    "usersPerBank": [
+      {
+        "bank": "SEB",
+        "users": 200
+      },
+      {
+        "bank": "SwedBank",
+        "users": 100
+      },
+      {
+        "bank": "LHV",
+        "users": 50
+      }
+    ],
+    "productsBoughtByMonth": [
+      {
+        "month": "January",
+        "productsSold": 1001
+      },
+      {
+        "month": "February",
+        "productsSold": 1235
+      },
+      {
+        "month": "March",
+        "productsSold": 1457
+      },
+      {
+        "month": "April",
+        "productsSold": 1678
+      },
+      {
+        "month": "May",
+        "productsSold": 1906
+      },
+      {
+        "month": "June",
+        "productsSold": 2064
+      },
+      {
+        "month": "July",
+        "productsSold": 3100
+      },
+      {
+        "month": "August",
+        "productsSold": 2705
+      },
+      {
+        "month": "September",
+        "productsSold": 2570
+      },
+      {
+        "month": "October",
+        "productsSold": 1034
+      },
+      {
+        "month": "November",
+        "productsSold": 2054
+      },
+      {
+        "month": "December",
+        "productsSold": 1052
+      }
+    ],
+    "productsBoughtByCountry": [
+      {
+        "country": "Estonia",
+        "productsSold": 5000
+      },
+      {
+        "country": "Latvia",
+        "productsSold": 3890
+      },
+      {
+        "country": "Russia",
+        "productsSold": 1347
+      },
+      {
+        "country": "Germany",
+        "productsSold": 6492
+      },
+      {
+        "country": "USA",
+        "productsSold": 3489
+      },
+      {
+        "country": "Poland",
+        "productsSold": 1638
+      }
+    ],
+
+    "averageCostumerAge": [
+
+      {
+        "interval": "children (0-14)",
+        "count": 2034
+      },
+      {
+        "interval": "youth (15-24)",
+        "count": 4724
+      },
+      {
+        "interval": "adults (25-64)",
+        "count": 3572
+      },
+      {
+        "interval": "seniors (65+)",
+        "count": 1264
+      }
+
+    ]
+  }
+}
